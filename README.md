@@ -2,17 +2,17 @@
 
 **Overview:**
 
-This is the day 4 project of the course 100 Days of Code: The Complete Python Pro Bootcamp.
+This is the Day 4 project from the 100 Days of Code: The Complete Python Pro Bootcamp. It’s a classic game where the player competes against the computer. The player chooses rock, paper, or scissors, and the computer makes a random choice. The game then determines and displays the winner based on the choices.
 
 **How It Works:**
 
-It's a very popular game. The user picks rock, paper or scissors and the computer picks randomly. 
-The code prints what is chosen and the winner.
-
-   - **Rock vs Scissors**: Rock beats scissors.
-   - **Paper vs Rock**: Paper beats rock.
-   - **Scissors vs Paper**: Scissors beats paper.
-   - **Draw**: If both choices are the same.
+1. **Player Choice:** The player selects between rock (0), paper (1), or scissors (2).
+2. **Computer Choice:** The computer randomly picks rock, paper, or scissors.
+3. **Outcome Determination:**
+   - Rock beats scissors.
+   - Paper beats rock.
+   - Scissors beat paper.
+   - If both choices are the same, it's a draw.
 
 
 **Example**
