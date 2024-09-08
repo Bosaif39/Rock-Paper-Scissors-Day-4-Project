@@ -17,7 +17,7 @@ The code prints what is chosen and the winner.
 
 **Example**
 
-![alt text]()
+![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_4.png?raw=true)
 
 **Requirements:**
 
