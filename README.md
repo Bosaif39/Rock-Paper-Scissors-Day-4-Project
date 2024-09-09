@@ -15,7 +15,7 @@ This is the Day 4 project from the 100 Days of Code: The Complete Python Pro Boo
    - If both choices are the same, it's a draw.
 
 
-## **Example**
+## **Example:**
 
 ![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_4.png?raw=true)
 
